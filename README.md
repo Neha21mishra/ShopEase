@@ -1,5 +1,5 @@
 # spring-boot-react-ecommerce-app
-eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
+ShopEase- An eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
  
 **FEATURES**
 
@@ -14,7 +14,7 @@ eCommerce application based on the microservices architecture built using Spring
 - Stores authentication details like token information in cookies.
 - Store cart's product information in cookies.
 - Payment service using Stripe's API to buy products.
-- Responsiveness support for all devices.
+
 
 **TOOLS USED**
 
@@ -39,9 +39,3 @@ eCommerce application based on the microservices architecture built using Spring
 - **Search Suggestion Service:** Provide default search suggestions and provides suggestions based on a prefix using Hashmap. The service creates the Hashmap based on available data from the database with various combinations and populates the map.
 
 
-15. https://react-redux.js.org/api/connect
-16. https://github.com/reduxjs/redux-thunk
-17. https://attacomsian.com/blog/spring-data-jpa-one-to-many-mapping
-18. https://stripe.com/docs
-19. https://developers.google.com/identity/protocols/oauth2
-20. https://devcenter.heroku.com/articles/heroku-redis
