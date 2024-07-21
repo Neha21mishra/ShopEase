@@ -1,5 +1,5 @@
-# spring-boot-react-ecommerce-app
-ShopEase- An eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
+# ShopEase
+An eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
  
 **FEATURES**
 
